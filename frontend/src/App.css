@@ -1,0 +1,60 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.navbar-brand h3 {
+  margin: 0;
+  color: white;
+}
+
+.card {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border: none;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.card-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  border-radius: 8px 8px 0 0 !important;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  border-top: none;
+}
+
+.badge {
+  font-size: 0.85em;
+  padding: 0.35em 0.65em;
+}
+
+.dashboard .card {
+  transition: transform 0.2s;
+}
+
+.dashboard .card:hover {
+  transform: translateY(-2px);
+}
+
+.btn {
+  border-radius: 5px;
+  padding: 8px 20px;
+}
+
+.alert {
+  border-radius: 8px;
+}
+
+.form-control {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.form-control:focus {
+  border-color: #0d6efd;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
