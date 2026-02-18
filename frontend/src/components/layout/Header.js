@@ -13,13 +13,13 @@ function Header({ auth, onLogout }) {
                                 <i className="fas fa-phone-alt me-2"></i>
                                 <small>+250 793 516 483</small>
                                 <i className="fas fa-envelope ms-3 me-2"></i>
-                                <small>nehilotworship@gmail.com</small>
+                                <small>nehiloth  worship@gmail.com</small>
                             </div>
                         </div>
                         <div className="col-md-6 text-end">
                             <small>
                                 <i className="fas fa-map-marker-alt me-1"></i>
-                                IPRC Tumba, Rwanda
+                                RP  Tumba college, Rwanda
                             </small>
                         </div>
                     </div>
@@ -34,8 +34,8 @@ function Header({ auth, onLogout }) {
                             <i className="fas fa-music text-white"></i>
                         </div>
                         <div>
-                            <h4 className="mb-0 text-white">Nehilot Worship</h4>
-                            <small className="text-light">IPRC Tumba Choir</small>
+                            <h4 className="mb-0 text-white">Nehiloth Worship</h4>
+                            <small className="text-light">RP Tumba College  Choir</small>
                         </div>
                     </Link>
                     

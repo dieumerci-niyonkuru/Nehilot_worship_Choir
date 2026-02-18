@@ -103,7 +103,7 @@ function Footer() {
                         <ul className="list-unstyled text-light">
                             <li className="mb-3">
                                 <i className="fas fa-map-marker-alt me-2"></i>
-                                IPRC Tumba, Southern Province, Rwanda
+                                RP Tumba College, Southern Province, Rwanda
                             </li>
                             <li className="mb-3">
                                 <i className="fas fa-phone-alt me-2"></i>
@@ -111,7 +111,7 @@ function Footer() {
                             </li>
                             <li className="mb-3">
                                 <i className="fas fa-envelope me-2"></i>
-                                nehilotworship@gmail.com
+                                nehilothworship@gmail.com
                             </li>
                             <li className="mb-3">
                                 <i className="fas fa-clock me-2"></i>
@@ -126,12 +126,12 @@ function Footer() {
                 <div className="row">
                     <div className="col-md-6">
                         <p className="mb-0 text-light">
-                            &copy; {new Date().getFullYear()} Nehilot Worship. All rights reserved.
+                            &copy; {new Date().getFullYear()} Nehiloth Worship. All rights reserved.
                         </p>
                     </div>
                     <div className="col-md-6 text-end">
                         <p className="mb-0 text-light">
-                            Designed with <b className="br">Dieu Merci</b> for IPRC Tumba Worship
+                            Designed with <b className="br">Dieu Merci</b> for RP Tumba Worship
                         </p>
                     </div>
                 </div>

@@ -10,7 +10,7 @@ function HomePage() {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <h1 className="display-4 fw-bold mb-4">
-                                Welcome to <span className="text-primary">Nehilot Worship</span>
+                                Welcome to <span className="text-primary">Nehiloth Worship</span>
                             </h1>
                             <p className="lead mb-4">
                                 Experience the power of worship through music. Join our vibrant choir community 

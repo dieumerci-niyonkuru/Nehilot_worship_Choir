@@ -7,7 +7,7 @@ function Navbar({ auth, onLogout }) {
             <div className="container">
                 <Link className="navbar-brand" to="/">
                     <i className="fas fa-music me-2"></i>
-                    <strong>Nehilot Worship</strong>
+                    <strong>Nehiloth Worship</strong>
                 </Link>
                 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">

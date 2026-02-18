@@ -22,7 +22,7 @@ function Login({ setAuth }) {
         setLoading(true);
         setError('');
 
-        // Simulate API call
+        // Those code shows the js complete files
         setTimeout(() => {
             // For demo: accept any username/password
             const userData = {
